@@ -1,0 +1,10 @@
+#heading{
+    text-decoration: underline red wavy;
+    text-align: center;
+}
+
+#para{
+    text-transform: capitalize;
+    font-family: cursive;
+    font-weight: 100;
+}
