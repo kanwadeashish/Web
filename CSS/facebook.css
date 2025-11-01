@@ -1,0 +1,30 @@
+form{
+    background-color: white;
+    padding: 100px;
+    font-family: cursive;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 1000px;
+}
+button{
+    height: 20px;
+    width: 170px;
+    background-color: blue;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+input{
+    margin: 3px;
+}
+html{
+    background-color: rgb(180, 180, 180);
+}
+h1{
+    font-size: 50px;
+    margin-top: 150px;
+    text-align: center;
+    color: blue;
+    margin-left: 1000px;
+}
