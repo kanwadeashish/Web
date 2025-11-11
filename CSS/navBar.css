@@ -1,0 +1,17 @@
+#bar{
+    position: fixed;
+}
+#main{
+    display: inline-block;
+    border: 2px solid black;
+    height: 100px;
+    width: 290px;
+    text-align: center;
+}
+#sub{
+    display: inline-block;
+    border: 2px solid black;
+    height: 50px;
+    width: 241px;
+    text-align: center;
+}
